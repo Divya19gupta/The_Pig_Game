@@ -1,3 +1,4 @@
+//intially starting with js.
 var scores,roundScore,activePlayer,dice,gamePlaying;
 init();
 
